@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Hudson Rodrigues!</h1>
 
 <p align="center">
-  🚀 Desenvolvedor(a) especializado(a) em <strong>C#</strong> e <strong>SQL Server</strong>, com foco em soluções robustas e análise de dados avançada.
+  🚀 Desenvolvedor iniciante em <strong>C#</strong> e <strong>SQL Server</strong>, com foco em soluções robustas e análise de dados avançada.
   <br> Apaixonado(a) por transformar dados em insights estratégicos usando <strong>Power BI</strong> e <strong>Excel Avançado</strong>.
 </p>
 

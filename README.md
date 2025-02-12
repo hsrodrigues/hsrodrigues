@@ -23,7 +23,7 @@
 
 ### 🚧 Projetos em Destaque
 
-- [**Sistema de Gestão com C# e SQL Server**](LINK_DO_PROJETO)  
+- [**Sistema de Gestão com C# e SQL Server**](https://github.com/hsrodrigues/SISCAD-Sistema-de-Cadastros)  
   🛠️ *Desenvolvimento de uma aplicação robusta para gerenciamento de dados corporativos.*
 
 - [**Dashboard de Análise de Vendas no Power BI**](LINK_DO_PROJETO)  

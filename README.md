@@ -49,7 +49,7 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hsrodrigues&show_icons=true&theme=dark&locale=pt-br)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hsrodrigues&layout=donut&theme=dark&locale=pt-br)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hsrodrigues&layout=donut&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

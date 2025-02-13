@@ -47,6 +47,7 @@
 
 ### 📈 GitHub Stats
 
+
 ## 📊 Estatísticas do Repositório
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsrodrigues&show_icons=true&hide_title=true&count_private=true&hide=prs0&theme=dark&locale=pt-br)

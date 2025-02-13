@@ -47,9 +47,13 @@
 
 ### 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hsrodrigues&show_icons=true&theme=dark&locale=pt-br)
+## 📊 Estatísticas do Repositório
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hsrodrigues&layout=donut&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsrodrigues&show_icons=true&hide_title=true&count_private=true&hide=prs0&theme=dark&locale=pt-br)
+
+## 💻 Linguagens Utilizadas
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hsrodrigues&layout=compact&langs_count=100&theme=dark&locale=pt-br)
 
 ---
 

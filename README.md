@@ -67,7 +67,7 @@
   <a href="mailto:hsrodrigues01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://seuportfolio.com" target="_blank">
+  <a href="hsrodrigues/hsrodrigues.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo Online-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

@@ -29,7 +29,7 @@
 - [**Dashboard de Análise de Vendas no Power BI**](LINK_DO_PROJETO)  
   📊 *Criação de dashboards interativos com integração de dados via Excel Avançado e SAP HANA.*
 
-- [**Interface Responsiva com Bootstrap**](LINK_DO_PROJETO)  
+- [**Interface Responsiva com Bootstrap**](https://github.com/hsrodrigues/Paineis-htm-css-bootstrap)  
   🌐 *Desenvolvimento de páginas web responsivas com HTML, CSS e Bootstrap.*
 
 ---
@@ -46,7 +46,7 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hsrodrigues&show_icons=true&theme=dark&locale=pt-br)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hsrodrigues&layout=compact&theme=dark&locale=pt-br)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hsrodrigues&layout=donut&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hsrodrigues&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsrodrigues&theme=radical" alt="Streak do GitHub"/>
+  <img src="https://img.shields.io/badge/Dias%20Seguidos-🔥%20Check%20GitHub-orange" alt="Streak do GitHub"/>
 </p>
 
 ---

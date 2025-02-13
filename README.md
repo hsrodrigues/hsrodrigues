@@ -51,7 +51,6 @@
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hsrodrigues&layout=donut&theme=dark&locale=pt-br)
 
-
 ---
 
 ### 📫 Como me encontrar:

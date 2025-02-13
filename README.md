@@ -44,20 +44,19 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hsrodrigues&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://img.shields.io/badge/Dias%20Seguidos-🔥%20Check%20GitHub-orange" alt="Streak do GitHub"/>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hsrodrigues&show_icons=true&theme=dark&locale=pt-br)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hsrodrigues&layout=compact&theme=dark&locale=pt-br)
 
 ---
 
 ### 📫 Como me encontrar:
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEULINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/hudson-santos-rodrigues-98746114b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEUEMAIL">
+  <a href="mailto:hsrodrigues01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://seuportfolio.com" target="_blank">

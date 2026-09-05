@@ -144,8 +144,6 @@ Espaço para apresentação de projetos e trabalhos desenvolvidos.
 | [Curriculum Vitae](https://github.com/hsrodrigues/curriculum-vitae) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | [SCV — Sistema Chamada Veículos](https://github.com/hsrodrigues/SCV-sistema-chamada-veiculos) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | [OLIMPUS — Gestão de Estoque](https://github.com/hsrodrigues/OLIMPUS-Sistema-de-Gestao-de-Estoque) | ![Gestão](https://img.shields.io/badge/gestão-475569?style=flat-square) |
-| [SISCAD — Sistema de Cadastros](https://github.com/hsrodrigues/SISCAD-Sistema-de-Cadastros) | ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-| [Paineis HTML/CSS/Bootstrap](https://github.com/hsrodrigues/Paineis-htm-css-bootstrap) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 | [Painel .NET](https://github.com/hsrodrigues/Painel-.NET-C-) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
 | [SD Cal Expressões](https://github.com/hsrodrigues/SDcalexpressoes) | ![Sistemas distribuídos](https://img.shields.io/badge/sistemas%20distribuídos-7C3AED?style=flat-square) |
 

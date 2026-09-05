@@ -66,29 +66,88 @@ dashboards, relatórios, automações, backups e MySQL.
 Projeto em Kotlin voltado à construção de uma solução moderna com foco em
 produto e experiência de uso.
 
+### [Agro ERP System](https://github.com/hsrodrigues/agro-erp-system)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![ERP](https://img.shields.io/badge/ERP-2563EB?style=flat-square)
+
+Sistema ERP para gestão do agronegócio e de processos operacionais.
+
+### [Agro ERP](https://github.com/hsrodrigues/agro-erp)
+
+![ERP](https://img.shields.io/badge/ERP-2563EB?style=flat-square)
+![Agronegócio](https://img.shields.io/badge/agronegócio-16A34A?style=flat-square)
+
+Projeto complementar de gestão para o agronegócio.
+
+### [SOC Threat Intelligence Dashboard](https://github.com/hsrodrigues/SOC-Threat-Intelligence-Dashboard)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/cybersecurity-DC2626?style=flat-square&logo=hackthebox&logoColor=white)
+
+Dashboard de inteligência de ameaças para operações de segurança.
+
+### [Dashboard Operação Celulose](https://github.com/hsrodrigues/Dashboard-Operacao-Celulose)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dashboard](https://img.shields.io/badge/dashboard-0891B2?style=flat-square)
+
+Projeto de análise e acompanhamento de operação industrial.
+
+### [SEFAZ API Python](https://github.com/hsrodrigues/sefaz-api-python)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/API-7C3AED?style=flat-square)
+
+Integração com serviços fiscais por meio de API em Python.
+
 ### [PowerBI-Projects](https://github.com/hsrodrigues/PowerBI-Projects)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Dados](https://img.shields.io/badge/análise%20de%20dados-0F766E?style=flat-square)
 
-Projetos de análise e visualização de dados com Power BI, explorando
-indicadores, dashboards e apoio à tomada de decisão.
+Projetos de análise e visualização de dados com Power BI e Excel.
 
-### [Curriculum Vitae](https://github.com/hsrodrigues/curriculum-vitae)
+### [Estetify](https://github.com/hsrodrigues/estetify) · [Estetify Front](https://github.com/hsrodrigues/estetify-front)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Produto](https://img.shields.io/badge/produto%20digital-DB2777?style=flat-square)
+
+Solução full stack para gestão de serviços de beleza, com backend e frontend.
+
+### [Fluxai Web](https://github.com/hsrodrigues/fluxai-web)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Status](https://img.shields.io/badge/currículo-online-111827?style=flat-square)
+![Web](https://img.shields.io/badge/web-0EA5E9?style=flat-square)
 
-Currículo online com minha trajetória, competências e projetos.
+Interface web do ecossistema Fluxai.
 
-### Projetos anteriores
+### [Nexus ERP](https://github.com/hsrodrigues/nexus-erp)
+
+![ERP](https://img.shields.io/badge/ERP-2563EB?style=flat-square)
+![Gestão](https://img.shields.io/badge/gestão-475569?style=flat-square)
+
+Projeto de sistema integrado de gestão empresarial.
+
+### [Portifolio](https://github.com/hsrodrigues/portifolio)
+
+![Portfólio](https://img.shields.io/badge/portfólio-111827?style=flat-square)
+
+Espaço para apresentação de projetos e trabalhos desenvolvidos.
+
+### Outros projetos
 
 | Projeto | Tecnologias |
 | --- | --- |
-| [SISCAD — Sistema de Cadastros](https://github.com/hsrodrigues/SISCAD-Sistema-de-Cadastros) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| [Curriculum Vitae](https://github.com/hsrodrigues/curriculum-vitae) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [SCV — Sistema Chamada Veículos](https://github.com/hsrodrigues/SCV-sistema-chamada-veiculos) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [OLIMPUS — Gestão de Estoque](https://github.com/hsrodrigues/OLIMPUS-Sistema-de-Gestao-de-Estoque) | ![Gestão](https://img.shields.io/badge/gestão-475569?style=flat-square) |
+| [SISCAD — Sistema de Cadastros](https://github.com/hsrodrigues/SISCAD-Sistema-de-Cadastros) | ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
 | [Paineis HTML/CSS/Bootstrap](https://github.com/hsrodrigues/Paineis-htm-css-bootstrap) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| [Painel .NET](https://github.com/hsrodrigues/Painel-.NET-C-) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-512BD4?style=flat-square&logo=windows&logoColor=white) |
+| [Painel .NET](https://github.com/hsrodrigues/Painel-.NET-C-) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
+| [SD Cal Expressões](https://github.com/hsrodrigues/SDcalexpressoes) | ![Sistemas distribuídos](https://img.shields.io/badge/sistemas%20distribuídos-7C3AED?style=flat-square) |
 
 ## O que estou construindo
 
@@ -102,13 +161,17 @@ claras, dados bem organizados e processos automatizados.
 ## GitHub em números
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hsrodrigues&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsrodrigues&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas">
+
+![Repositórios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hsrodrigues&query=$.public_repos&label=repositórios%20públicos&color=2563EB&style=for-the-badge)
+![Seguidores](https://img.shields.io/github/followers/hsrodrigues?label=seguidores&style=for-the-badge&color=7C3AED)
+![Estrelas](https://img.shields.io/github/stars/hsrodrigues?affiliations=OWNER&label=estrelas&style=for-the-badge&color=F59E0B)
+![Commits](https://img.shields.io/github/commit-activity/y/hsrodrigues?label=atividade%20anual&style=for-the-badge&color=16A34A)
+
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=hsrodrigues&color=2563EB&style=flat-square&label=visitas%20ao%20perfil)
+
 </div>
 
 <div align="center">
-
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=hsrodrigues&color=2563EB&style=flat-square&label=visitas%20ao%20perfil)
 
 > Transformando processos em soluções, uma linha de código por vez.
 

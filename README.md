@@ -99,7 +99,9 @@ Projeto de análise e acompanhamento de operação industrial.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![API](https://img.shields.io/badge/API-7C3AED?style=flat-square)
 
-Integração com serviços fiscais por meio de API em Python.
+Monitoramento assíncrono da disponibilidade dos serviços da SEFAZ, com API
+FastAPI, scraper em background, histórico de latência e resposta pronta para
+dashboards.
 
 ### [PowerBI-Projects](https://github.com/hsrodrigues/PowerBI-Projects)
 

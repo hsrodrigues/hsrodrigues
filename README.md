@@ -48,38 +48,47 @@ desktop e aos dashboards.
 
 ### [OpsFlow](https://github.com/hsrodrigues/opsflow)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-2563EB?style=flat-square)
+
 Plataforma de gestão operacional e logística multi-tenant. Inclui API
 FastAPI, desktop com PySide6, autenticação JWT, licenciamento por empresa,
 dashboards, relatórios, automações, backups e MySQL.
 
-**Stack:** Python · FastAPI · PySide6 · SQLAlchemy · MySQL · Docker
-
 ### [Fluxai](https://github.com/hsrodrigues/Fluxai)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-2563EB?style=flat-square)
 
 Projeto em Kotlin voltado à construção de uma solução moderna com foco em
 produto e experiência de uso.
 
-**Stack:** Kotlin
-
 ### [PowerBI-Projects](https://github.com/hsrodrigues/PowerBI-Projects)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Dados](https://img.shields.io/badge/análise%20de%20dados-0F766E?style=flat-square)
 
 Projetos de análise e visualização de dados com Power BI, explorando
 indicadores, dashboards e apoio à tomada de decisão.
 
-**Stack:** Power BI · Excel · Dados
-
 ### [Curriculum Vitae](https://github.com/hsrodrigues/curriculum-vitae)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Status](https://img.shields.io/badge/currículo-online-111827?style=flat-square)
 
 Currículo online com minha trajetória, competências e projetos.
 
 ### Projetos anteriores
 
-- [SISCAD — Sistema de Cadastros](https://github.com/hsrodrigues/SISCAD-Sistema-de-Cadastros)
-  — aplicação de gestão com C# e SQL Server.
-- [Paineis HTML/CSS/Bootstrap](https://github.com/hsrodrigues/Paineis-htm-css-bootstrap)
-  — interfaces web responsivas.
-- [Painel .NET](https://github.com/hsrodrigues/Painel-.NET-C-)
-  — aplicação Windows Forms para acesso rápido a links úteis.
+| Projeto | Tecnologias |
+| --- | --- |
+| [SISCAD — Sistema de Cadastros](https://github.com/hsrodrigues/SISCAD-Sistema-de-Cadastros) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| [Paineis HTML/CSS/Bootstrap](https://github.com/hsrodrigues/Paineis-htm-css-bootstrap) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| [Painel .NET](https://github.com/hsrodrigues/Painel-.NET-C-) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-512BD4?style=flat-square&logo=windows&logoColor=white) |
 
 ## O que estou construindo
 
@@ -99,8 +108,8 @@ claras, dados bem organizados e processos automatizados.
 
 <div align="center">
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=hsrodrigues&color=2563EB&style=flat-square&label=visitas+ao+perfil)
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=hsrodrigues&color=2563EB&style=flat-square&label=visitas%20ao%20perfil)
 
-*"Transformando processos em soluções, uma linha de código por vez."*
+> Transformando processos em soluções, uma linha de código por vez.
 
 </div>

@@ -1,80 +1,106 @@
-<h1 align="center">👋 Olá, eu sou Hudson Rodrigues!</h1>
+<div align="center">
 
-<p align="center">
-  🚀 Desenvolvedor iniciante em <strong>C#</strong> e <strong>SQL Server</strong>, com foco em soluções robustas e análise de dados avançada.
-  <br> Apaixonado(a) por transformar dados em insights estratégicos usando <strong>Power BI</strong> e <strong>Excel Avançado</strong>.
+# Hudson Rodrigues
+
+### Desenvolvedor de software | Automação, dados e produtos digitais
+
+Construo aplicações para transformar processos manuais em soluções mais
+simples, organizadas e eficientes — do backend e banco de dados à interface
+desktop e aos dashboards.
+
+<a href="https://www.linkedin.com/in/hudson-santos-rodrigues-98746114b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://hsrodrigues.github.io/curriculum-vitae/">
+  <img src="https://img.shields.io/badge/Currículo-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo">
+</a>
+<a href="mailto:hsrodrigues01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+## Sobre mim
+
+- Desenvolvedor com experiência em **C#/.NET**, **SQL Server**, **Power BI** e
+  **Excel avançado**.
+- Atualmente expandindo meu trabalho com **Python**, APIs, automação e
+  aplicações desktop.
+- Interesse em produtos que conectam dados, operação e experiência do usuário.
+- Sempre aprendendo e transformando ideias em projetos reais.
+
+## Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
----
+## Projetos em destaque
 
-### 🛠️ Tecnologias e Ferramentas
+### [OpsFlow](https://github.com/hsrodrigues/opsflow)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel Avançado](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Plataforma de gestão operacional e logística multi-tenant. Inclui API
+FastAPI, desktop com PySide6, autenticação JWT, licenciamento por empresa,
+dashboards, relatórios, automações, backups e MySQL.
 
----
+**Stack:** Python · FastAPI · PySide6 · SQLAlchemy · MySQL · Docker
 
-### 🚧 Projetos em Destaque
+### [Fluxai](https://github.com/hsrodrigues/Fluxai)
 
-- [**Sistema de Gestão com C# e SQL Server**](https://github.com/hsrodrigues/SISCAD-Sistema-de-Cadastros)  
-  🛠️ *Desenvolvimento de uma aplicação robusta para gerenciamento de dados corporativos.*
+Projeto em Kotlin voltado à construção de uma solução moderna com foco em
+produto e experiência de uso.
 
-- [**Dashboard de Análise de Vendas no Power BI**](LINK_DO_PROJETO)  
-  📊 *Criação de dashboards interativos com integração de dados via Excel Avançado e SAP HANA.*
+**Stack:** Kotlin
 
-- [**Interface Responsiva com Bootstrap**](https://github.com/hsrodrigues/Paineis-htm-css-bootstrap)  
-  🌐 *Desenvolvimento de páginas web responsivas com HTML, CSS e Bootstrap.*
+### [PowerBI-Projects](https://github.com/hsrodrigues/PowerBI-Projects)
 
-- [**Painel de Links com C#**](https://github.com/hsrodrigues/Painel-.NET-C-)  
-  📂 *Desenvolvimento de uma aplicação em winform para rápido acesso de links úteis.*
+Projetos de análise e visualização de dados com Power BI, explorando
+indicadores, dashboards e apoio à tomada de decisão.
 
----
+**Stack:** Power BI · Excel · Dados
 
-### 🌱 Em aprendizado:
+### [Curriculum Vitae](https://github.com/hsrodrigues/curriculum-vitae)
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Currículo online com minha trajetória, competências e projetos.
 
----
+### Projetos anteriores
 
-### 📈 GitHub Stats
+- [SISCAD — Sistema de Cadastros](https://github.com/hsrodrigues/SISCAD-Sistema-de-Cadastros)
+  — aplicação de gestão com C# e SQL Server.
+- [Paineis HTML/CSS/Bootstrap](https://github.com/hsrodrigues/Paineis-htm-css-bootstrap)
+  — interfaces web responsivas.
+- [Painel .NET](https://github.com/hsrodrigues/Painel-.NET-C-)
+  — aplicação Windows Forms para acesso rápido a links úteis.
 
+## O que estou construindo
 
-## 📊 Estatísticas do Repositório
+```text
+Ideia → Automação → Dados → Produto
+```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsrodrigues&show_icons=true&hide_title=true&count_private=true&hide=prs0&theme=dark&locale=pt-br)
+Meu foco atual é criar soluções completas, com backend confiável, interfaces
+claras, dados bem organizados e processos automatizados.
 
-## 💻 Linguagens Utilizadas
+## GitHub em números
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hsrodrigues&layout=compact&langs_count=100&theme=dark&locale=pt-br)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hsrodrigues&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsrodrigues&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas">
+</div>
 
----
+<div align="center">
 
-### 📫 Como me encontrar:
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=hsrodrigues&color=2563EB&style=flat-square&label=visitas+ao+perfil)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hudson-santos-rodrigues-98746114b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hsrodrigues01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://hsrodrigues.github.io/curriculum-vitae/" target="_blank">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculo Online-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+*"Transformando processos em soluções, uma linha de código por vez."*
 
----
-
-<p align="center">
-  ✨ *"Transformando dados em decisões estratégicas, uma linha de código por vez."* ✨
-</p>
-
+</div>
